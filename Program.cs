@@ -11,3 +11,5 @@ var app = b.Build();
 app.UseFastEndpoints();
 app.UseSwaggerGen();
 app.Run();
+
+
